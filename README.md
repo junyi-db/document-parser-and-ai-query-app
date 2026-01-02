@@ -167,16 +167,7 @@ ai_query(
 
 #### Option 2: Available Databricks Foundation Model Endpoints
 
-You can use any of the following Databricks Foundation Model endpoints:
-
-| Endpoint Name | Model | Use Case |
-|--------------|-------|----------|
-| `databricks-meta-llama-3-3-70b-instruct` | Llama 3.3 70B | General purpose, instruction following |
-| `databricks-meta-llama-3-1-405b-instruct` | Llama 3.1 405B | Complex reasoning, high quality |
-| `databricks-meta-llama-3-1-70b-instruct` | Llama 3.1 70B | Balanced performance |
-| `databricks-dbrx-instruct` | DBRX | Databricks native model |
-| `databricks-mixtral-8x7b-instruct` | Mixtral 8x7B | Fast, efficient |
-| `databricks-mpt-30b-instruct` | MPT 30B | Instruction following |
+You can use any of the following Databricks Foundation Model endpoints: https://docs.databricks.com/aws/en/machine-learning/foundation-model-apis/supported-models
 
 #### Option 3: Using External Model Serving Endpoints
 
